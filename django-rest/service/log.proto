@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+service FibCalculatorLog {
+    rpc getHistory(LogRequest) returns (LogResponse);
+}
+
+message LogRequest {
+}
+
+message LogResponse {
+    repeated string value = 1;
+}
