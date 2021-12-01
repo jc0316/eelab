@@ -2,7 +2,7 @@
 
 ## Tutorial Video
 
-- 
+- https://youtu.be/EXJj7gQtM5k
 
 ## Usage
 
